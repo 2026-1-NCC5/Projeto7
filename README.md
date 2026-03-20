@@ -10,7 +10,7 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href= "https://github.com/carlinhoslatorre"> Carlos Roberto Santos Latorre</a>,<a href="https://www.linkedin.com/in/victorbarq/"> Felipe Oluwaseun Santos Ojo </a>,<a href= "https://www.linkedin.com/in/felipe-wakasa-76a93a257/"> Felipe Wakasa Klabunde </a>, <a href= "https://www.linkedin.com/in/stephany-aliyah-4a2589321/"> Stephany Aliyah Guimarães Eurípedes de Paula </a>
+## Integrantes: <a href= "https://github.com/carlinhoslatorre"> Carlos Roberto Santos Latorre</a> Felipe Oluwaseun Santos Ojo </a>,<a href= "https://www.linkedin.com/in/felipe-wakasa-76a93a257/"> Felipe Wakasa Klabunde </a>, <a href= "https://www.linkedin.com/in/stephany-aliyah-4a2589321/"> Stephany Aliyah Guimarães Eurípedes de Paula </a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
