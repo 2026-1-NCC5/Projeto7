@@ -10,7 +10,8 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href= "https://github.com/carlinhoslatorre"> Carlos Roberto Santos Latorre</a> Felipe Oluwaseun Santos Ojo </a>,<a href= "https://www.linkedin.com/in/felipe-wakasa-76a93a257/"> Felipe Wakasa Klabunde </a>, <a href= "https://www.linkedin.com/in/stephany-aliyah-4a2589321/"> Stephany Aliyah Guimarães Eurípedes de Paula </a>
+## Integrantes: <a href= "https://github.com/carlinhoslatorre"> Carlos Roberto Santos Latorre</a> , <a href = "https://www.linkedin.com/in/felipeosantosojo/ "> Felipe Oluwaseun Santos Ojo </a>,<a href= "https://www.linkedin.com/in/felipe-wakasa-76a93a257/"> Felipe Wakasa Klabunde </a>, <a href= "https://www.linkedin.com/in/stephany-aliyah-4a2589321/"> Stephany Aliyah Guimarães Eurípedes de Paula </a>
+
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Prof. Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Prof. Rodnil da Silva Moreira</a>, <a href="https://www.linkedin.com/in/rafael-diogo-rossetti/">Prof. Rafael Diogo Rossetti</a>, <a href="https://www.linkedin.com/in/marcos-minoru-nakatsugawa/">Prof. Marcos Minoru Nakatsugawa</a>
 
