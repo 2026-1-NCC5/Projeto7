@@ -99,16 +99,50 @@ npm test
 Coloque código do prompt de comnando se for necessário
 ```
 
+
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+
+  <a property="dct:title" rel="cc:attributionURL" href="LINK_DO_REPOSITORIO">
+    EmpathTech – Contagem Inteligente de Alimentos
+  </a>
+  by
+  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Carlos Roberto Santos Latorre
+  </a>,
+  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Felipe Oluwaseun Santos Ojo
+  </a>,
+  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Felipe Wakasa Klabunde
+  </a>,
+  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Stephany Aliyah Guimarães Eurípedes de Paula
+  </a> is licensed under
+  <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"
+     target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+     CC BY 4.0
+    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+         src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
+    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+         src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
+  </a>
+
+</p>
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
+1. Python: <https://www.python.org/>
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+2. React: <https://react.dev/>
+
+3. Node.js: <https://nodejs.org/>
+
+4. Label Studio: <https://labelstud.io/>
+
+5. YOLO: <https://docs.ultralytics.com/>
+
+6. PostgreSQL: <https://www.postgresql.org/>
+
+7. AWS RDS: <https://aws.amazon.com/pt/rds/>
