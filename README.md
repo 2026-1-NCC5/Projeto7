@@ -30,35 +30,49 @@ May the force be with you!
 <br><br>
 
 ## 🛠 Estrutura de pastas
+## 🛠 Estrutura de Pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+```text
+Raiz
+|
+|--> documentos
+|   |
+|   |--> Entrega 1
+|   |   |--> Inteligência Artificial e Aprendizado de Máquina
+|   |   |--> Projeto Interdisciplinar - Inteligência Artificial
+|   |   |--> Psicologia, Liderança e Soft Skills
+|   |   |--> Sistemas Operacionais e Computação em Nuvem
+|   |   |--> Álgebra Linear, Vetores e Geometria Analítica
+|   |
+|   |--> Entrega 2
+|       |--> Inteligência Artificial e Aprendizado de Máquina
+|       |--> Projeto Interdisciplinar - Inteligência Artificial
+|       |--> Psicologia, Liderança e Soft Skills
+|       |--> Sistemas Operacionais e Computação em Nuvem
+|       |--> Álgebra Linear, Vetores e Geometria Analítica
+|   
+|   
+|
+|--> imagens
+|
+|--> src
+|   |--> Backend
+|   |--> Frontend
+|
+|--> README.md
+```
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+📄 **README.md**: Arquivo que serve como guia e explicação geral sobre o projeto.
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+Há também 3 pastas principais que seguem da seguinte forma:
 
-Há também 4 pastas que seguem da seguinte forma:
+🗂️ **documentos**: Toda a documentação geral do projeto, incluindo as entregas das disciplinas do semestre.
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+📷 **imagens**: Imagens utilizadas para documentação, apresentação e explicação do projeto.
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+🧑‍💻 **src**: Pasta que contém o código-fonte da aplicação, separado entre frontend e backend.
 
-<b>imagens</b>: Imagens do sistema
 
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
