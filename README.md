@@ -10,7 +10,7 @@
 
 ## Grupo 7 - EmpathTech
 
-## Integrantes: <a href= "https://github.com/carlinhoslatorre"> Carlos Roberto Santos Latorre</a> , <a href = "https://www.linkedin.com/in/felipeosantosojo/ "> Felipe Oluwaseun Santos Ojo </a>,<a href= "https://www.linkedin.com/in/felipe-wakasa-76a93a257/"> Felipe Wakasa Klabunde </a>, <a href= "https://www.linkedin.com/in/stephany-aliyah-4a2589321/"> Stephany Aliyah Guimarães Eurípedes de Paula </a>
+## Integrantes: <a href= "https://github.com/carlinhoslatorre"> Carlos Roberto Santos Latorre</a>, <a href = "https://www.linkedin.com/in/felipeosantosojo/ "> Felipe Oluwaseun Santos Ojo</a>,<a href= "https://www.linkedin.com/in/felipe-wakasa-76a93a257/"> Felipe Wakasa Klabunde</a>, <a href= "https://www.linkedin.com/in/stephany-aliyah-4a2589321/"> Stephany Aliyah Guimarães Eurípedes de Paula</a>
 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/marcos-minoru-nakatsugawa/">Marcos Minoru Nakatsugawa</a>,<a href="https://www.linkedin.com/in/rafael-diogo-rossetti/">Rafael Diogo Rossetti</a>, <a href="https://www.linkedin.com/in/rodrigo-da-rosa-phd/">Rodrigo da Rosa</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisbôa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
@@ -18,19 +18,14 @@
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+  Project by Carlos Roberto, Felipe Oluwaseun, Felipe Wakasa e Stephany Aliyah.
 
+O **EmpathTech** foi desenvolvido para apoiar campanhas de arrecadação de alimentos, principalmente na etapa de contagem e organização dos itens recebidos. Em muitas ações sociais, esse controle ainda é feito manualmente, o que pode causar atrasos, erros na triagem e dificuldade para acompanhar com precisão a quantidade de alimentos arrecadados. A proposta do projeto é facilitar esse processo, oferecendo uma forma mais ágil e confiável de registrar as doações.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+Para isso, o sistema utiliza **Inteligência Artificial** e **Visão Computacional** para identificar os alimentos a partir de imagens e registrar as informações de maneira automatizada. A solução também integra banco de dados e computação em nuvem, permitindo que os dados sejam armazenados e consultados com mais organização. Dessa forma, o EmpathTech busca contribuir com o trabalho das instituições e voluntários, ajudando na gestão das doações e permitindo que mais tempo seja dedicado à distribuição dos alimentos para quem precisa.
 <br><br>
 
 ## 🛠 Estrutura de pastas
-## 🛠 Estrutura de Pastas
 
 ```text
 Raiz
