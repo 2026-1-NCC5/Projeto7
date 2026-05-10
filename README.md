@@ -114,7 +114,7 @@ Coloque código do prompt de comnando se for necessário
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
 
   <a property="dct:title" rel="cc:attributionURL" href="LINK_DO_REPOSITORIO">
-    EmpathTech – Contagem Inteligente de Alimentos
+    EmpathTech
   </a>
   by
   <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
