@@ -113,20 +113,20 @@ Coloque código do prompt de comnando se for necessário
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
 
-  <a property="dct:title" rel="cc:attributionURL" href="LINK_DO_REPOSITORIO">
+  <a property="dct:title" rel="cc:attributionURL" href="https://github.com/2026-1-NCC5/Projeto7">
     EmpathTech
   </a>
   by
-  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+  <a href="https://github.com/2026-1-NCC5/Projeto7" rel="cc:attributionURL dct:creator" property="cc:attributionName">
     Carlos Roberto Santos Latorre
   </a>,
-  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+  <a href="https://github.com/2026-1-NCC5/Projeto7" rel="cc:attributionURL dct:creator" property="cc:attributionName">
     Felipe Oluwaseun Santos Ojo
   </a>,
-  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+  <a href="https://github.com/2026-1-NCC5/Projeto7" rel="cc:attributionURL dct:creator" property="cc:attributionName">
     Felipe Wakasa Klabunde
   </a>,
-  <a href="LINK_DO_REPOSITORIO" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+  <a href="https://github.com/2026-1-NCC5/Projeto7" rel="cc:attributionURL dct:creator" property="cc:attributionName">
     Stephany Aliyah Guimarães Eurípedes de Paula
   </a> is licensed under
   <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"
