@@ -27,7 +27,6 @@
 O **EmpathTech** foi desenvolvido para apoiar campanhas de arrecadação de alimentos, principalmente na etapa de contagem e organização dos itens recebidos. Em muitas ações sociais, esse controle ainda é feito manualmente, o que pode causar atrasos, erros na triagem e dificuldade para acompanhar com precisão a quantidade de alimentos arrecadados. A proposta do projeto é facilitar esse processo, oferecendo uma forma mais ágil e confiável de registrar as doações.
 
 Para isso, o sistema utiliza **Inteligência Artificial** e **Visão Computacional** para identificar os alimentos a partir de imagens e registrar as informações de maneira automatizada. A solução também integra banco de dados e computação em nuvem, permitindo que os dados sejam armazenados e consultados com mais organização. Dessa forma, o EmpathTech busca contribuir com o trabalho das instituições e voluntários, ajudando na gestão das doações e permitindo que mais tempo seja dedicado à distribuição dos alimentos para quem precisa.
-
 <br><br>
 
 ## 🛠 Estrutura de pastas
