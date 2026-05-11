@@ -70,7 +70,7 @@ Há também 3 pastas principais que seguem da seguinte forma:
 
 📷 **imagens**: Imagens utilizadas para documentação, apresentação e explicação do projeto.
 
-🧑‍💻 **src**: Pasta que contém o código-fonte da aplicação, separado entre frontend e backend.
+🌐 **src**: Pasta que contém o código-fonte da aplicação, separado entre frontend e backend.
 
 
 
