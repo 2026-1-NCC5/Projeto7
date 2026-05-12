@@ -75,42 +75,74 @@ Há também 3 pastas principais que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
+### Como rodar (passo a passo)
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+**Pré-requisitos**
+- Node.js (16+), `npm` ou `bun` instalado
+- Python 3.8+ e `pip` (para o ai-service)
+- Opcional: Docker, se preferir conteinerizar os serviços
 
-```sh
-Coloque código do prompt de comnando se for necessário
+Siga estas instruções mínimas para executar localmente cada parte do projeto.
+
+**Backend (Node.js)**
+
+1. Entre na pasta: `src/Entrega 2/Backend`
+2. Instale dependências:
+
+```bash
+cd "src/Entrega 2/Backend"
+npm install
 ```
 
-<b>Windows:</b>
+3. Configure variáveis de ambiente e inicie:
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+```bash
 
-```sh
-Coloque código do prompt de comnando se for necessário
+npm start   
+node main.js
 ```
 
-<b>HTML:</b>
+Observações: ajuste `PORT` e conexões de banco no arquivo `.env`.
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+**Frontend (React / Vite)**
 
-## 💻 Configuração para Desenvolvimento
+1. Entre na pasta: `src/Entrega 2/Frontend`
+2. Instale dependências e rode em modo de desenvolvimento:
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+```bash
+cd "src/Entrega 2/Frontend"
+npm install
+npm run dev   
 ```
+
+Se for necessário apontar a API do backend, defina `VITE_API_URL`.
+
+**AI service (Python)**
+
+1. Entre na pasta: `src/Frontend/ai-service`
+2. Crie e ative um ambiente virtual (Windows):
+
+```powershell
+cd "src/Frontend/ai-service"
+python -m venv .venv
+.\.venv\Scripts\activate
+```
+
+Linux / macOS:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+3. Instale dependências com `requirements.txt` e execute:
+
+```bash
+pip install -r requirements.txt  
+python main.py                   
+python -m api.server
+```
+
 
 
 ## 📋 Licença/License

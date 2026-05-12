@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: piccomp
+      POSTGRES_USER: piccomp
+      POSTGRES_PASSWORD: piccomp
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+
+  backend:
+    build:
+      context: ..
+      dockerfile: docker/backend.Dockerfile
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgres://piccomp:piccomp@db:5432/piccomp
+    ports:
+      - 3000:3000
+
+  ai-service:
+    build:
+      context: ..
+      dockerfile: docker/ai-service.Dockerfile
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgres://piccomp:piccomp@db:5432/piccomp
+      
+      TRAINED_MODEL_PATH: /app/best.pt
+    ports:
+      - 8001:8001
+
+volumes:
+  db_data:

@@ -1,10 +1,12 @@
 import os
 import sys
+import uvicorn
 
 
 def main() -> int:
     if len(sys.argv) < 2:
         print("Uso:")
+        print("python main.py api")
         print("python main.py camera")
         print("python main.py image <caminho_da_imagem>")
         print("python main.py train")
@@ -12,8 +14,13 @@ def main() -> int:
 
     command = sys.argv[1].lower()
 
+    if command == "api":
+        uvicorn.run("api.server:app", host="0.0.0.0", port=8000, reload=True)
+        return 0
+
     if command == "camera":
         from inference.detect_camera import run_camera_detection
+
         run_camera_detection()
         return 0
 
@@ -28,11 +35,13 @@ def main() -> int:
             return 1
 
         from inference.detect_image import run_image_detection
+
         run_image_detection(image_path)
         return 0
 
     if command == "train":
         from training.train import run_training
+
         run_training()
         return 0
 
@@ -41,4 +50,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main()) 
+    raise SystemExit(main())
