@@ -25,3 +25,5 @@ macarrao_500g
 molho_de_tomate_240g
 oleo_900ml
 peixe_enlatado_120g
+```
+## Siga as instruções na página inicial do projeto para acessar o dashboard.

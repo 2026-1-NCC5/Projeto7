@@ -24,3 +24,10 @@ macarrao_500g
 molho_de_tomate_240g
 oleo_900ml
 peixe_enlatado_120g
+```
+Em `src` > `Frontend` > `ai-service` contém todos os arquivos referentes ao treinamento do modelo. 
+
+Implementações novas: 
+
+- Captura em movimento
+- Captura por foto
